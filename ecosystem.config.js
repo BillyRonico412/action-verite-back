@@ -4,7 +4,8 @@ module.exports = {
     env: {
       PORT: 8082,
     },
-    watch: '.'
+    watch: '.',
+    name: "sudoku"
   }],
 
   deploy: {
