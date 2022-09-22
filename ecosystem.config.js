@@ -5,7 +5,7 @@ module.exports = {
       PORT: 8082,
     },
     watch: '.',
-    name: "sudoku"
+    name: "action-verite"
   }],
 
   deploy: {
